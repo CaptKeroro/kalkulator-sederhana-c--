@@ -35,6 +35,7 @@ int main() {
   else {
     cout << "operator todak tersedia";
   }
-
+  
+  cin.get();
   return 0;
 }
